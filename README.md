@@ -340,3 +340,6 @@ quarkus build -Dquarkus.container-image.build=true -Dquarkus.profile=openshift-c
 oc delete all -l app.kubernetes.io/name=quinoa-wind-turbine
 ```
 
+### TODO
+
+write way easier documentation on how to get it working with argo
