@@ -11,6 +11,7 @@
 4. implement cool stuff
 5. Profit
 
+
 You can run your application in dev mode that enables live coding using:
 ```shell script
 quarkus dev
