@@ -1,4 +1,3 @@
-
 # Quinoa WindTurbine Racer Demo
 
 # Wind Turbine GitOps repo
